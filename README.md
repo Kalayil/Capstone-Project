@@ -34,7 +34,8 @@ Our website is built with the latest web technologies to ensure a seamless shopp
 
 4. Authentication: JWT (JSON Web Token) for secure user authentication
 
-5. Deployment: Deployed on Render.
+5. Deployment: Deployed on Render
+   https://the-shoe-store.onrender.com/
 
 ## Getting Started:
 
